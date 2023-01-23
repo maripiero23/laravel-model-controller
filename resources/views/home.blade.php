@@ -5,6 +5,7 @@
         <div class="row row-cols-1 row-cols-md-2 g-4 row-cols-lg-5">
             @foreach($movies as $movie)
                 <div class="col">
+                    
                     <div class="card border-0">
                         <img src="https://picsum.photos/200" class="card-img-top img-fluid" alt="...">
                         <div class="card-body">

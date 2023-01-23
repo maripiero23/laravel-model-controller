@@ -13,6 +13,7 @@
 <body class="bg-primary">
     <h1 class="text-center text-danger py-5">MOVIES</h1>
 
+    
     @yield('content')
 
 </body>
